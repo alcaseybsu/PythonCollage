@@ -1,5 +1,5 @@
 # PythonCollage
-Image manipulation using Python - converted from JES to Python3.
+Image manipulation using Python - converted from JES to Python3.  
 This project generates a collage image using Python3 and the Pillow library.
 
 ## Final Image:
