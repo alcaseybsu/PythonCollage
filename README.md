@@ -4,7 +4,7 @@ This project generates a collage image using Python3 and the Pillow library.
 
 ## Final Image
 
-![Final Image](https://github.com/yourusername/yourrepository/raw/main/leah_casey.jpg)
+![Final Image](https://github.com/alcaseybsu/PythonCollage/blob/main/collage_result.PNG)
 
-You can also view the image [here](https://github.com/yourusername/yourrepository/raw/main/leah_casey.jpg).
+
 
